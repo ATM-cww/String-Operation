@@ -1,0 +1,45 @@
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.exe.config
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.exe
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.pdb
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csprojAssemblyReference.cache
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.Form1.resources
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.Properties.Resources.resources
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.GenerateResource.cache
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.exe
+E:\程式\C#\Windows Form 主控台程序\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.pdb
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.exe.config
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.exe
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.pdb
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csprojAssemblyReference.cache
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.Form1.resources
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.Properties.Resources.resources
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.GenerateResource.cache
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.exe
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.pdb
+E:\程式\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.CoreCompileInputs.cache
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.exe.config
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.exe
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\自動隔行.pdb
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\Guna.UI2.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.Form1.resources
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.Properties.Resources.resources
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.GenerateResource.cache
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.CoreCompileInputs.cache
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.CopyComplete
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.exe
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.pdb
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.AssemblyReference.cache
+E:\程序\C#\Windows Form\實用  Practical\自動隔行\自動隔行\obj\Debug\自動隔行.csproj.SuggestedBindingRedirects.cache

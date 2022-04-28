@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d3de30b-e610-4da2-9694-7353b14839fc": {
+      "ProjectGuid": "2d3de30b-e610-4da2-9694-7353b14839fc",
+      "DisplayName": "自動隔行",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
